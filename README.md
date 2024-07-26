@@ -22,8 +22,9 @@ To analyze DNS and ICMP traffic using data from a network protocol analyzer tool
 
 ### Tools Used
 
-- tcpdump log
-- Word processing software for document creation
+<img src="https://img.shields.io/badge/-tcpdump%20Log-009B77?&style=for-the-badge&logo=file-alt&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Docs-4285F4?&style=for-the-badge&logo=google-docs&logoColor=white" />
+
 
 ## Steps
 
